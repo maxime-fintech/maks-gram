@@ -1,65 +1,72 @@
-# 👋 Hi, I'm Maxim  
-### FinTech Developer · MQL5 Automation · Trading Strategy Engineer  
+<h1 align="center">Hi, I'm Maxime 👋</h1>
+<h3 align="center">FinTech Developer · MQL5 Automation · Trading Strategy Engineer</h3>
 
-I build algorithmic trading systems, convert TradingView strategies into professional MetaTrader 5 Expert Advisors, and create Python tools for analytics and reporting.  
-My work combines engineering precision, clean architecture, and a strong understanding of market logic.
-
----
-
-## 🔹 What I Do
-
-### 🟦 MQL5 Development  
-- Expert Advisors (EAs)  
-- Custom indicators  
-- Multi-timeframe systems  
-- Modular and scalable architecture  
-
-### 🟩 TradingView → MT5 Conversions  
-- Pine Script → MQL5  
-- Accurate signal replication  
-- Real-world improvements (risk, MM, alerts, visualization)
-
-### 🟧 Python for Traders  
-- Trade analyzers  
-- Automated reporting  
-- Strategy metrics  
-- Data processing  
+<p align="center">
+  <img src="https://img.shields.io/badge/MQL5-Expert%20Advisor-blue" />
+  <img src="https://img.shields.io/badge/Pine%20Script-Strategy%20Developer-green" />
+  <img src="https://img.shields.io/badge/Python-FinTech%20Analytics-yellow" />
+</p>
 
 ---
 
-## 🔥 Featured Project
+## 🔹 About Me
 
-### **Pine → MQL5: EMA Slope + EMA Cross Strategy**  
-Full conversion of a TradingView strategy with extended MT5 functionality.
+I develop algorithmic trading systems, port TradingView strategies to MetaTrader 5,  
+and build Python-based tools for analytics and reporting.
 
-🔗 Repository:  
-https://github.com/maks-gram/pine-to-mql5-ema-slope-cross
-
-📌 Includes:  
-- Modular architecture  
-- MT5 backtests  
-- Real-time examples  
-- Clean-room implementation
+My engineering approach focuses on:
+- clean & modular architecture  
+- precise replication of trading logic  
+- production-ready MT5 automation  
+- deep understanding of how strategies behave in live markets  
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-`MQL5` · `Pine Script` · `Python`  
+- **MQL5** — EAs, indicators, multi-timeframe architecture  
+- **Pine Script** — TradingView strategies & conversions  
+- **Python** — trade analytics, reporting, data processing  
 
-**Focus Areas:**  
-Algorithmic trading • Backtesting • Multi-timeframe systems • FinTech automation • Data analysis • Trade reporting
+---
+
+## 🔥 Featured Project
+
+### 📌 Pine → MQL5 Conversion: EMA Slope + EMA Cross Strategy  
+A full clean-room conversion of a TradingView strategy with modular MQL5 design, real-time charts, and MT5 backtests.
+
+👉 **Repository:**  
+https://github.com/maks-gram/pine-to-mql5-ema-slope-cross
+
+---
+
+## 🔧 What I Do
+
+### 🟦 MQL5 Development
+- Expert Advisors (EAs)  
+- Custom indicators  
+- Signal engines  
+- Multi-timeframe systems  
+
+### 🟩 TradingView → MT5 Conversion
+- Pine Script → MQL5 ports  
+- Full strategy replication  
+- Improved MT5 architecture (risk, alerts, MM)
+
+### 🟧 Python for Traders
+- Automated trade reporting  
+- Risk & performance metrics  
+- Data processing pipelines  
 
 ---
 
 ## 📬 Contact
 
-If you need help with:  
+If you need help with:
 - converting a TradingView strategy to MT5  
-- building a custom EA  
-- trade analytics or automation  
+- developing a custom Expert Advisor  
+- building analytics tools for trading  
 
-Feel free to reach out — I'm open for collaboration and freelance projects.
+Feel free to reach out — I’m open to collaboration and freelance work.
 
 ---
